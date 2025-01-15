@@ -3,7 +3,7 @@ export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
     { href: '/', key: 'discover', label: 'Discover' },
     { href: '/', key: 'contacts', label: 'Contact' },
-    { href: '/blog', key: 'blog', label: 'Blog' },
+    { href: '/', key: 'blog', label: 'Blog' },
     { href: '/auth/sign-up', key: 'signin', label: 'Sign Up' },
     { href: '/auth/sign-in', key: 'signup', label: 'Login' }
   ];
